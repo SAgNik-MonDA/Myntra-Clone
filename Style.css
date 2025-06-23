@@ -24,7 +24,7 @@ header{
 .action_bar{
     margin-right: 4%;
 }
-
+/* nav */
 .nav_bar{
     display: flex;
     min-width:500px;
