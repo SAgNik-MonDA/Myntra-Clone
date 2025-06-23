@@ -44,8 +44,6 @@ header{
 .nav_bar a:hover{
 border-bottom: 4px solid #f54e77;
 }
-
-
 .nav_bar a sup {
 color: #ff3f6c;
 font-size: 10px;
